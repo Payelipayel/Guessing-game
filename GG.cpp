@@ -42,7 +42,7 @@ int main()
         }
         else
         {
-            cout<<name<<" YOU ARE A NOOB !!!!! BETA TUMSE NA HO PAYEGA "<<endl<<endl;
+            cout<<name<<" YOU ARE A NOOB !!!!!"<<endl<<endl;
         }
 
 
