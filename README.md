@@ -21,7 +21,7 @@ This repository contains a simple console-based number guessing game implemented
 
 Enjoy the game and happy coding!
 
-HERE IS Two SAMPLE GAME 
+HERE IS TWOSAMPLE GAME 
 
 ![image](https://github.com/Payelipayel/Guessing-game/assets/151753856/89287978-7cce-451d-8ffd-13312ea6e94c)
 ![image](https://github.com/Payelipayel/Guessing-game/assets/151753856/f88e0cd3-09d2-41e1-90c1-820740554817)
